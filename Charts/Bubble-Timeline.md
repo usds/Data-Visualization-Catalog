@@ -11,4 +11,11 @@
   
 ![Bubble Timelime](https://github.com/usds/Data-Visualization-Catalog/blob/main/Charts/images/bubble.png)
   
+#### Input
+|   | X  | Y  |
+|---|----|----|
+| A | 30 | 14 |
+| B | 34 | 16 |
+| C | 38 | 10 |
+  
  

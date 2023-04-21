@@ -1,3 +1,5 @@
 # Data-Visualization-Catalog
 
-## [Charts]()
+## [Chart](https://github.com/usds/Data-Visualization-Catalog/tree/main/Charts)
+## [Diagram]()
+

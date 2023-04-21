@@ -11,4 +11,4 @@
 ----------------------
 ### [Accessibility]()
 ----------------------
-[Suggestions](mailto:julian.hasse@omb.eop.gov?subject=[GitHub]%20Source%20DataViz%20Catalog)
+Suggestions: julian.hasse@omb.eop.gov

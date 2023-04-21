@@ -8,14 +8,15 @@
 
 <p> Distribution charts are based on plot point distributions on a grid. The grid squares are colored based on the density of points that fall within them. You can create distribution charts only when the specified data source is a view with two measures and a category.
 
-  
-![Bubble Timelime](https://github.com/usds/Data-Visualization-Catalog/blob/main/Charts/images/bubble_01.png)
-  
 #### Input
 |   | X  | Y  |
 |---|----|----|
 | A | 30 | 14 |
 | B | 34 | 16 |
 | C | 38 | 10 |
+  
+![Bubble Timelime](https://github.com/usds/Data-Visualization-Catalog/blob/main/Charts/images/bubble_01.png)
+  
+
   
  

@@ -18,5 +18,5 @@ Displaying data over time increases understanding of the real performance of a p
 | 70 | 15 |
 | 30 | 25 |
   
-![Control Chart](https://github.com/usds/Data-Visualization-Catalog/blob/main/Charts/images/control.png)
+![Control Chart](https://github.com/usds/Data-Visualization-Catalog/blob/main/Charts/images/column-sparkline.png)
   

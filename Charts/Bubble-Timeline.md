@@ -1,4 +1,4 @@
-[ <- back to CHARTS](https://github.com/usds/Data-Visualization-Catalog/blob/main/Charts/readme.md)
+[ <- back to CHART](https://github.com/usds/Data-Visualization-Catalog/blob/main/Charts/readme.md)
 
 ### Description
 

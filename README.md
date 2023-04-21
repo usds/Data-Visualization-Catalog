@@ -11,4 +11,4 @@
 ----------------------
 ### [Accessibility]()
 ----------------------
-Made with ![](https://www.flaticon.com/free-icons/heart) julian.hasse@omb.eop.gov
+Made with ![](https://github.com/usds/Data-Visualization-Catalog/blob/main/Charts/images/heart.png) by julian.hasse@omb.eop.gov

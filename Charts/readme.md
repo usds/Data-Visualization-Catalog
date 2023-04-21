@@ -2,5 +2,5 @@
 
 ## Chart
 
-- [Bubble Timeline](https://github.com/usds/Data-Visualization-Catalog/blob/main/Charts/Bubble-Timeline.md)
+- [Bubble Timeline](https://github.com/usds/Data-Visualization-Catalog/blob/main/Charts/Bubble-Timeline.md)<br>
 - [Control Chart](https://github.com/usds/Data-Visualization-Catalog/blob/main/Charts/Control-Chart.md)

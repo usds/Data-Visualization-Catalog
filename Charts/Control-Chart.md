@@ -18,5 +18,5 @@ Displaying data over time increases understanding of the real performance of a p
 | 2 | 34 |
 | 3 | 38 |
   
-![Control Chart]()
+![Control Chart](https://github.com/usds/Data-Visualization-Catalog/blob/main/Charts/images/control.png)
   

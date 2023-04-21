@@ -1,3 +1,5 @@
+[back to CHARTS](https://github.com/usds/Data-Visualization-Catalog/blob/main/Charts/readme.md)
+
 ### Description
 
 <p> A Bubble timeline is a way to display a set of events or items on a timeline with a variable displayed as the the are size of the bubbles. In essence the bubble timeline is a compound data visualization, of a scaled timeline and a proportional area chart.

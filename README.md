@@ -11,4 +11,4 @@
 ----------------------
 ### [Accessibility]()
 ----------------------
-Made with ![](https://github.com/usds/Data-Visualization-Catalog/blob/main/Charts/images/heart_s.png) by julian.hasse@omb.eop.gov
+
